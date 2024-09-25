@@ -1,3 +1,6 @@
+//Approach 2
+
+
 package examples;
 
 import java.util.ArrayList;
