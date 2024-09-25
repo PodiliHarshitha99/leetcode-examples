@@ -1,4 +1,4 @@
-//Approach 2
+//Approach 2 for Greatest number of candies
 
 
 package examples;
